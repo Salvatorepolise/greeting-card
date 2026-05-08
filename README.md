@@ -37,11 +37,6 @@ Even though it is a beginner project, it helped me practice writing clean HTML a
 
 ---
 
-## 📷 Preview
-
-(Add screenshot of your project here)
-
----
 
 ## 📈 Purpose
 
